@@ -1,4 +1,4 @@
-require_relative
+require_relative 
 
 class Student
   attr_accessor :id, :name, :grade
